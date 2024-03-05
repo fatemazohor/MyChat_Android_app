@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823035598327",
+    "project_id": "my-chat-backend-cbfac",
+    "storage_bucket": "my-chat-backend-cbfac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823035598327:android:77c206522a545bb6d54af2",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7WTiuME_9E92e90kf2n7GLbxfaM3YWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
