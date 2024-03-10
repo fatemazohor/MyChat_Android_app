@@ -10,7 +10,7 @@ a chat application incorporating features such as user search, profile image and
 | Chats | :pushpin: Recent chat:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_17.png) | :pushpin: Chat:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_18.png) |
 | Profile | :pushpin: User Profile:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_4.png) | :pushpin: Image upload:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_5.png) |
 | Update | :pushpin: Profile Name and Image Update:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_6.png) | :pushpin: Start up:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_10.png) |
-| This | :pushpin: Start up:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_9.png) | :pushpin: Start up:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_10.png) |
-| This | is 3rd | row |
+| This | :pushpin: Start up:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_20.png) | :pushpin: Start up:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_21.png) |
+| This | :pushpin: Start up:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_19.png) | :pushpin: Start up:![ start up](https://github.com/fatemazohor/MyChat_Android_app/blob/main/chatImage/Screenshot_22.png) |
 | This | is 3rd | row |
 | This | is 3rd | row |
